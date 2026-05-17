@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Banner image - replace with your own -->
-<!-- <img src="YOUR_BANNER_URL" width="100%" /> -->
+<img src="BuildersLab.png" width="100%" />
 
 # 🧪 BuildersLab
 
@@ -46,16 +45,16 @@
 
 | Name | Role | GitHub | Project |
 |------|------|--------|---------|
-| **Nafisat Ibrahim** | 🌟 Project Lead | [![GitHub](https://img.shields.io/badge/@Nafisatibrahim-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nafisatibrahim) | IEEE-CIS Fraud Detection &nbsp;·&nbsp; Credit Risk Scoring &nbsp;·&nbsp; Agricultural Yield Predictor |
-| **Bintou Ba** | 📊 Data Scientist | [![GitHub](https://img.shields.io/badge/@Bintouba-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bintouba) | Credit Risk Scoring System |
-| **Chiapo Lynda Allepo** | 📊 Data Scientist | [![GitHub](https://img.shields.io/badge/@LyndaAllepo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LyndaAllepo) | Credit Risk Scoring System |
-| **Emmanuel N'Guetta** | 📊 Data Scientist | [![GitHub](https://img.shields.io/badge/@nguettae1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nguettae1) | IEEE-CIS Fraud Detection System |
-| **Grace Yasmine Bohainan Diagoné** | 📊 Data Scientist | [![GitHub](https://img.shields.io/badge/@Yass20mi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yass20mi) | Agricultural Yield Predictor |
-| **Laël Keïla Nacro** | 📊 Data Scientist | <!-- GitHub username unknown --> | IEEE-CIS Fraud Detection System |
-| **Marienne Dosso** | 📊 Data Scientist | [![GitHub](https://img.shields.io/badge/@marienne56-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/marienne56) | Credit Risk Scoring System |
-| **Divyanshi Kashyap** | ⚙️ ML Engineer | [![GitHub](https://img.shields.io/badge/@Divkashyap29-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Divkashyap29) | Credit Risk Scoring System |
-| **Ephrem Kadja** | ⚙️ ML Engineer | <!-- GitHub username unknown --> | Agricultural Yield Predictor |
-| **Sai Kotthireddy** | ⚙️ ML Engineer | <!-- GitHub username unknown --> | IEEE-CIS Fraud Detection System |
+| **Nafisat Ibrahim** | Project Lead | [![GitHub](https://img.shields.io/badge/@Nafisatibrahim-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nafisatibrahim) | Fraud Detection · Credit Risk · Agri. Yield |
+| **Bintou Ba** | Data Scientist | [![GitHub](https://img.shields.io/badge/@Bintouba-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bintouba) | Credit Risk Scoring |
+| **Chiapo Lynda Allepo** | Data Scientist | [![GitHub](https://img.shields.io/badge/@LyndaAllepo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LyndaAllepo) | Credit Risk Scoring |
+| **Emmanuel N'Guetta** | Data Scientist | [![GitHub](https://img.shields.io/badge/@nguettae1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nguettae1) | Fraud Detection |
+| **Grace Y. Bohainan Diagoné** | Data Scientist | [![GitHub](https://img.shields.io/badge/@Yass20mi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yass20mi) | Agri. Yield Predictor |
+| **Laël Keïla Nacro** | Data Scientist | <!-- GitHub username unknown --> | Fraud Detection |
+| **Marienne Dosso** | Data Scientist | [![GitHub](https://img.shields.io/badge/@marienne56-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/marienne56) | Credit Risk Scoring |
+| **Divyanshi Kashyap** | ML Engineer | [![GitHub](https://img.shields.io/badge/@Divkashyap29-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Divkashyap29) | Credit Risk Scoring |
+| **Ephrem Kadja** | ML Engineer | <!-- GitHub username unknown --> | Agri. Yield Predictor |
+| **Sai Kotthireddy** | ML Engineer | <!-- GitHub username unknown --> | Fraud Detection |
 
 </details>
 
@@ -141,7 +140,7 @@ Whether you're a student, a career switcher, or someone who's been meaning to st
 - 🌐 A network of builders across the cohort
 
 ### Who we're looking for
-- Some Python experience (you don't need to be an expert)
+- Python experience (you don't need to be an expert)
 - Curiosity and willingness to figure things out
 - Consistency - showing up matters more than being the smartest in the room
 
