@@ -45,16 +45,16 @@
 
 | Name | Role | GitHub | Project |
 |------|------|--------|---------|
-| **Nafisat Ibrahim** | Project Lead | [![GitHub](https://img.shields.io/badge/@Nafisatibrahim-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nafisatibrahim) | Fraud Detection · Credit Risk · Agri. Yield |
-| **Bintou Ba** | Data Scientist | [![GitHub](https://img.shields.io/badge/@Bintouba-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bintouba) | Credit Risk Scoring |
-| **Chiapo Lynda Allepo** | Data Scientist | [![GitHub](https://img.shields.io/badge/@LyndaAllepo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LyndaAllepo) | Credit Risk Scoring |
-| **Emmanuel N'Guetta** | Data Scientist | [![GitHub](https://img.shields.io/badge/@nguettae1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nguettae1) | Fraud Detection |
-| **Grace Y. Bohainan Diagoné** | Data Scientist | [![GitHub](https://img.shields.io/badge/@Yass20mi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yass20mi) | Agri. Yield Predictor |
-| **Laël Keïla Nacro** | Data Scientist | <!-- GitHub username unknown --> | Fraud Detection |
-| **Marienne Dosso** | Data Scientist | [![GitHub](https://img.shields.io/badge/@marienne56-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/marienne56) | Credit Risk Scoring |
-| **Divyanshi Kashyap** | ML Engineer | [![GitHub](https://img.shields.io/badge/@Divkashyap29-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Divkashyap29) | Credit Risk Scoring |
-| **Ephrem Kadja** | ML Engineer | <!-- GitHub username unknown --> | Agri. Yield Predictor |
-| **Sai Kotthireddy** | ML Engineer | <!-- GitHub username unknown --> | Fraud Detection |
+| **Nafisat Ibrahim** | ![Project Lead](https://img.shields.io/badge/Project%20Lead-6C63FF?style=flat-square&logoColor=white) | [![GitHub](https://img.shields.io/badge/@Nafisatibrahim-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nafisatibrahim) | ![](https://img.shields.io/badge/Fraud%20Detection-E74C3C?style=flat-square) ![](https://img.shields.io/badge/Credit%20Risk-3498DB?style=flat-square) ![](https://img.shields.io/badge/Agri.%20Yield-27AE60?style=flat-square) |
+| **Bintou Ba** | ![Data Scientist](https://img.shields.io/badge/Data%20Scientist-4B8BBE?style=flat-square&logoColor=white) | [![GitHub](https://img.shields.io/badge/@Bintouba-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bintouba) | ![](https://img.shields.io/badge/Credit%20Risk-3498DB?style=flat-square) |
+| **Chiapo Lynda Allepo** | ![Data Scientist](https://img.shields.io/badge/Data%20Scientist-4B8BBE?style=flat-square&logoColor=white) | [![GitHub](https://img.shields.io/badge/@LyndaAllepo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LyndaAllepo) | ![](https://img.shields.io/badge/Credit%20Risk-3498DB?style=flat-square) |
+| **Emmanuel N'Guetta** | ![Data Scientist](https://img.shields.io/badge/Data%20Scientist-4B8BBE?style=flat-square&logoColor=white) | [![GitHub](https://img.shields.io/badge/@nguettae1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nguettae1) | ![](https://img.shields.io/badge/Fraud%20Detection-E74C3C?style=flat-square) |
+| **Grace Y. Bohainan Diagoné** | ![Data Scientist](https://img.shields.io/badge/Data%20Scientist-4B8BBE?style=flat-square&logoColor=white) | [![GitHub](https://img.shields.io/badge/@Yass20mi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yass20mi) | ![](https://img.shields.io/badge/Agri.%20Yield-27AE60?style=flat-square) |
+| **Laël Keïla Nacro** | ![Data Scientist](https://img.shields.io/badge/Data%20Scientist-4B8BBE?style=flat-square&logoColor=white) | <!-- GitHub username unknown --> | ![](https://img.shields.io/badge/Fraud%20Detection-E74C3C?style=flat-square) |
+| **Marienne Dosso** | ![Data Scientist](https://img.shields.io/badge/Data%20Scientist-4B8BBE?style=flat-square&logoColor=white) | [![GitHub](https://img.shields.io/badge/@marienne56-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/marienne56) | ![](https://img.shields.io/badge/Credit%20Risk-3498DB?style=flat-square) |
+| **Divyanshi Kashyap** | ![ML Engineer](https://img.shields.io/badge/ML%20Engineer-E07B39?style=flat-square&logoColor=white) | [![GitHub](https://img.shields.io/badge/@Divkashyap29-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Divkashyap29) | ![](https://img.shields.io/badge/Credit%20Risk-3498DB?style=flat-square) |
+| **Ephrem Kadja** | ![ML Engineer](https://img.shields.io/badge/ML%20Engineer-E07B39?style=flat-square&logoColor=white) | <!-- GitHub username unknown --> | ![](https://img.shields.io/badge/Agri.%20Yield-27AE60?style=flat-square) |
+| **Sai Kotthireddy** | ![ML Engineer](https://img.shields.io/badge/ML%20Engineer-E07B39?style=flat-square&logoColor=white) | <!-- GitHub username unknown --> | ![](https://img.shields.io/badge/Fraud%20Detection-E74C3C?style=flat-square) |
 
 </details>
 
@@ -77,6 +77,7 @@
 A machine learning system that identifies fraudulent payment transactions using the IEEE-CIS dataset. The team applies advanced feature engineering, anomaly detection, and ensemble methods to surface suspicious activity with high precision - minimizing false positives while catching real fraud.
 
 [![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge)](#)
+[![Demo](https://img.shields.io/badge/Demo-E74C3C?style=for-the-badge)](#)
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
 <br clear="left"/>
@@ -98,6 +99,7 @@ A machine learning system that identifies fraudulent payment transactions using 
 A predictive scoring system that evaluates the creditworthiness of loan applicants using historical financial data. The model outputs a continuous risk score to help lenders make data-driven decisions - reducing default rates while keeping credit accessible to qualified borrowers.
 
 [![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge)](#)
+[![Demo](https://img.shields.io/badge/Demo-3498DB?style=for-the-badge)](#)
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
 <br clear="left"/>
@@ -119,6 +121,7 @@ A predictive scoring system that evaluates the creditworthiness of loan applican
 A data-driven forecasting tool that estimates crop yields from environmental and agricultural inputs - including weather patterns, soil composition, and farming practices. Built to help researchers and planners anticipate production outcomes and support more sustainable food systems.
 
 [![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge)](#)
+[![Demo](https://img.shields.io/badge/Demo-27AE60?style=for-the-badge)](#)
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
 <br clear="left"/>
