@@ -31,6 +31,8 @@
 
 ## 👥 Meet the Team
 
+> 📋 Check out the full directory here: [builderslab.dev/directory](https://builderslab.dev/directory)
+
 <!-- =========================================================
      COHORT UPDATE INSTRUCTIONS
      To add a new cohort:
