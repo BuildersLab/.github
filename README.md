@@ -36,9 +36,9 @@
 <summary><b>🌟 Project Lead</b></summary>
 <br>
 
-| Name | Projects |
-|------|----------|
-| **Nafisat Ibrahim** | IEEE-CIS Fraud Detection &nbsp;·&nbsp; Credit Risk Scoring &nbsp;·&nbsp; Agricultural Yield Predictor |
+| Name | GitHub | Projects |
+|------|--------|----------|
+| **Nafisat Ibrahim** | [![GitHub](https://img.shields.io/badge/@Nafisatibrahim-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nafisatibrahim) | IEEE-CIS Fraud Detection &nbsp;·&nbsp; Credit Risk Scoring &nbsp;·&nbsp; Agricultural Yield Predictor |
 
 </details>
 
@@ -46,14 +46,14 @@
 <summary><b>📊 Data Scientists</b></summary>
 <br>
 
-| Name | Project |
-|------|---------|
-| **Bintou Ba** | Credit Risk Scoring System |
-| **Chiapo Lynda Allepo** | Credit Risk Scoring System |
-| **Emmanuel N'Guetta** | IEEE-CIS Fraud Detection System |
-| **Grace Yasmine Bohainan Diagoné** | Agricultural Yield Predictor |
-| **Laël Keïla Nacro** | IEEE-CIS Fraud Detection System |
-| **Marienne Dosso** | Credit Risk Scoring System |
+| Name | GitHub | Project |
+|------|--------|---------|
+| **Bintou Ba** | [![GitHub](https://img.shields.io/badge/@Bintouba-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bintouba) | Credit Risk Scoring System |
+| **Chiapo Lynda Allepo** | [![GitHub](https://img.shields.io/badge/@LyndaAllepo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LyndaAllepo) | Credit Risk Scoring System |
+| **Emmanuel N'Guetta** | [![GitHub](https://img.shields.io/badge/@nguettae1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nguettae1) | IEEE-CIS Fraud Detection System |
+| **Grace Yasmine Bohainan Diagoné** | [![GitHub](https://img.shields.io/badge/@Yass20mi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yass20mi) | Agricultural Yield Predictor |
+| **Laël Keïla Nacro** | <!-- GitHub username unknown --> | IEEE-CIS Fraud Detection System |
+| **Marienne Dosso** | [![GitHub](https://img.shields.io/badge/@marienne56-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/marienne56) | Credit Risk Scoring System |
 
 </details>
 
@@ -61,11 +61,11 @@
 <summary><b>⚙️ Machine Learning Engineers</b></summary>
 <br>
 
-| Name | Project |
-|------|---------|
-| **Divyanshi Kashyap** | Credit Risk Scoring System |
-| **Ephrem Kadja** | Agricultural Yield Predictor |
-| **Sai Kotthireddy** | IEEE-CIS Fraud Detection System |
+| Name | GitHub | Project |
+|------|--------|---------|
+| **Divyanshi Kashyap** | [![GitHub](https://img.shields.io/badge/@Divkashyap29-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Divkashyap29) | Credit Risk Scoring System |
+| **Ephrem Kadja** | <!-- GitHub username unknown --> | Agricultural Yield Predictor |
+| **Sai Kotthireddy** | <!-- GitHub username unknown --> | IEEE-CIS Fraud Detection System |
 
 </details>
 
