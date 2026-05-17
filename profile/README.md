@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Banner image — replace with your own -->
+<!-- Banner image - replace with your own -->
 <!-- <img src="YOUR_BANNER_URL" width="100%" /> -->
 
 # 🧪 BuildersLab
@@ -32,8 +32,20 @@
 
 ## 👥 Meet the Team
 
+<!-- =========================================================
+     COHORT UPDATE INSTRUCTIONS
+     To add a new cohort:
+       1. Copy the entire <details> block below
+       2. Change "Cohort 0" to the new cohort number
+       3. Update names, GitHub usernames, and projects
+     ========================================================= -->
+
 <details open>
-<summary><b>🌟 Project Lead</b></summary>
+<summary><b>🚀 Cohort 0 &nbsp;·&nbsp; 2025</b></summary>
+<br>
+
+<details open>
+<summary>&nbsp;&nbsp;&nbsp;<b>🌟 Project Lead</b></summary>
 <br>
 
 | Name | GitHub | Projects |
@@ -43,7 +55,7 @@
 </details>
 
 <details open>
-<summary><b>📊 Data Scientists</b></summary>
+<summary>&nbsp;&nbsp;&nbsp;<b>📊 Data Scientists</b></summary>
 <br>
 
 | Name | GitHub | Project |
@@ -58,7 +70,7 @@
 </details>
 
 <details open>
-<summary><b>⚙️ Machine Learning Engineers</b></summary>
+<summary>&nbsp;&nbsp;&nbsp;<b>⚙️ Machine Learning Engineers</b></summary>
 <br>
 
 | Name | GitHub | Project |
@@ -66,6 +78,8 @@
 | **Divyanshi Kashyap** | [![GitHub](https://img.shields.io/badge/@Divkashyap29-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Divkashyap29) | Credit Risk Scoring System |
 | **Ephrem Kadja** | <!-- GitHub username unknown --> | Agricultural Yield Predictor |
 | **Sai Kotthireddy** | <!-- GitHub username unknown --> | IEEE-CIS Fraud Detection System |
+
+</details>
 
 </details>
 
@@ -85,7 +99,7 @@
 
 `Fraud Detection` &nbsp;`Classification` &nbsp;`Ensemble Models` &nbsp;`Feature Engineering` &nbsp;`Imbalanced Data`
 
-A machine learning system that identifies fraudulent payment transactions using the IEEE-CIS dataset. The team applies advanced feature engineering, anomaly detection, and ensemble methods to surface suspicious activity with high precision — minimizing false positives while catching real fraud.
+A machine learning system that identifies fraudulent payment transactions using the IEEE-CIS dataset. The team applies advanced feature engineering, anomaly detection, and ensemble methods to surface suspicious activity with high precision - minimizing false positives while catching real fraud.
 
 [![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge)](#)
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](#)
@@ -106,7 +120,7 @@ A machine learning system that identifies fraudulent payment transactions using 
 
 `Credit Risk` &nbsp;`Scorecard Modeling` &nbsp;`Logistic Regression` &nbsp;`Financial ML` &nbsp;`Risk Assessment`
 
-A predictive scoring system that evaluates the creditworthiness of loan applicants using historical financial data. The model outputs a continuous risk score to help lenders make data-driven decisions — reducing default rates while keeping credit accessible to qualified borrowers.
+A predictive scoring system that evaluates the creditworthiness of loan applicants using historical financial data. The model outputs a continuous risk score to help lenders make data-driven decisions - reducing default rates while keeping credit accessible to qualified borrowers.
 
 [![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge)](#)
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](#)
@@ -127,7 +141,7 @@ A predictive scoring system that evaluates the creditworthiness of loan applican
 
 `Agriculture` &nbsp;`Regression` &nbsp;`Environmental Data` &nbsp;`Food Security` &nbsp;`Geospatial Analysis`
 
-A data-driven forecasting tool that estimates crop yields from environmental and agricultural inputs — including weather patterns, soil composition, and farming practices. Built to help researchers and planners anticipate production outcomes and support more sustainable food systems.
+A data-driven forecasting tool that estimates crop yields from environmental and agricultural inputs - including weather patterns, soil composition, and farming practices. Built to help researchers and planners anticipate production outcomes and support more sustainable food systems.
 
 [![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge)](#)
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](#)
@@ -138,12 +152,38 @@ A data-driven forecasting tool that estimates crop yields from environmental and
 
 <div align="center">
 
+## 🌱 Want to Be Part of the Next Cohort?
+
+**BuildersLab is looking for curious, driven people who want to do more than just learn - they want to build.**
+
+Whether you're a student, a career switcher, or someone who's been meaning to start that ML project forever, this is your place. You'll work in a real team, on a real project, and walk away with something you're proud to show.
+
+> *"The best way to learn data science is to actually do data science."*
+
+### What you'll get
+- 🤝 A team that pushes you forward
+- 🛠️ Hands-on experience with real datasets and real problems
+- 📁 A portfolio project you built from scratch
+- 🌐 A network of builders across the cohort
+
+### Who we're looking for
+- Some Python experience (you don't need to be an expert)
+- Curiosity and willingness to figure things out
+- Consistency - showing up matters more than being the smartest in the room
+
+<br>
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-FF6B6B?style=for-the-badge)](https://builderslab.dev/apply)
+[![Visit Website](https://img.shields.io/badge/Visit_Website-6C63FF?style=for-the-badge)](https://builderslab.dev)
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/builderslabdev)
+
+---
+
 ## 💬 Join the Community
 
-Got questions? Want to collaborate? Come hang out with us!
+Got questions? Want to see what we're building? Come hang out - our Discord is open to everyone.
 
 [![Join our Discord](https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Xah34WuhW3)
-[![Apply to BuildersLab](https://img.shields.io/badge/Apply%20to%20BuildersLab-FF6B6B?style=for-the-badge)](https://builderslab.dev/apply)
 
 <sub>Built with ❤️ by the BuildersLab team</sub>
 
