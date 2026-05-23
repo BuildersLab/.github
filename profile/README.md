@@ -51,9 +51,9 @@
 | **Bintou Ba** | ![Data Scientist](https://img.shields.io/badge/Data%20Scientist-4B8BBE?style=flat-square&logoColor=white) | [![GitHub](https://img.shields.io/badge/@Bintouba-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bintouba) | ![](https://img.shields.io/badge/Credit%20Risk-3498DB?style=flat-square) |
 | **Chiapo Lynda Allepo** | ![Data Scientist](https://img.shields.io/badge/Data%20Scientist-4B8BBE?style=flat-square&logoColor=white) | [![GitHub](https://img.shields.io/badge/@LyndaAllepo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LyndaAllepo) | ![](https://img.shields.io/badge/Credit%20Risk-3498DB?style=flat-square) |
 | **Emmanuel N'Guetta** | ![Data Scientist](https://img.shields.io/badge/Data%20Scientist-4B8BBE?style=flat-square&logoColor=white) | [![GitHub](https://img.shields.io/badge/@nguettae1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nguettae1) | ![](https://img.shields.io/badge/Fraud%20Detection-E74C3C?style=flat-square) |
-| **Grace Y. Bohainan Diagoné** | ![Data Scientist](https://img.shields.io/badge/Data%20Scientist-4B8BBE?style=flat-square&logoColor=white) | [![GitHub](https://img.shields.io/badge/@Yass20mi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yass20mi) | ![](https://img.shields.io/badge/Agri.%20Yield-27AE60?style=flat-square) |
+| **Grace Y. Bohainan Diagoné** | ![Data Scientist](https://img.shields.io/badge/Data%20Scientist-4B8BBE?style=flat-square&logoColor=white) ![Secondary Lead](https://img.shields.io/badge/Secondary%20Lead-9B8EC4?style=flat-square&logoColor=white) | [![GitHub](https://img.shields.io/badge/@Yass20mi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yass20mi) | ![](https://img.shields.io/badge/Agri.%20Yield-27AE60?style=flat-square) |
 | **Laël Keïla Nacro** | ![Data Scientist](https://img.shields.io/badge/Data%20Scientist-4B8BBE?style=flat-square&logoColor=white) | <!-- GitHub username unknown --> | ![](https://img.shields.io/badge/Fraud%20Detection-E74C3C?style=flat-square) |
-| **Marienne Dosso** | ![Data Scientist](https://img.shields.io/badge/Data%20Scientist-4B8BBE?style=flat-square&logoColor=white) | [![GitHub](https://img.shields.io/badge/@marienne56-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/marienne56) | ![](https://img.shields.io/badge/Credit%20Risk-3498DB?style=flat-square) |
+| **Marienne Dosso** | ![Data Scientist](https://img.shields.io/badge/Data%20Scientist-4B8BBE?style=flat-square&logoColor=white) ![Secondary Lead](https://img.shields.io/badge/Secondary%20Lead-9B8EC4?style=flat-square&logoColor=white) | [![GitHub](https://img.shields.io/badge/@marienne56-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/marienne56) | ![](https://img.shields.io/badge/Credit%20Risk-3498DB?style=flat-square) |
 | **Divyanshi Kashyap** | ![ML Engineer](https://img.shields.io/badge/ML%20Engineer-E07B39?style=flat-square&logoColor=white) | [![GitHub](https://img.shields.io/badge/@Divkashyap29-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Divkashyap29) | ![](https://img.shields.io/badge/Credit%20Risk-3498DB?style=flat-square) |
 | **Ephrem Kadja** | ![ML Engineer](https://img.shields.io/badge/ML%20Engineer-E07B39?style=flat-square&logoColor=white) | <!-- GitHub username unknown --> | ![](https://img.shields.io/badge/Agri.%20Yield-27AE60?style=flat-square) |
 | **Sai Kotthireddy** | ![ML Engineer](https://img.shields.io/badge/ML%20Engineer-E07B39?style=flat-square&logoColor=white) | <!-- GitHub username unknown --> | ![](https://img.shields.io/badge/Fraud%20Detection-E74C3C?style=flat-square) |
@@ -64,7 +64,7 @@
 
 ## 🗂️ Projects
 
-### 🔍 IEEE-CIS Fraud Detection System
+### 🔍 Fraud Detection System
 
 <img src="../images/fraud_detection_image.jpg" align="left" width="240" style="margin: 0 20px 16px 0; border-radius: 10px;" />
 
