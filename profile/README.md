@@ -80,8 +80,9 @@
 A machine learning system that identifies fraudulent payment transactions using the IEEE-CIS dataset. The team applies advanced feature engineering, anomaly detection, and ensemble methods to surface suspicious activity with high precision - minimizing false positives while catching real fraud.
 
 [![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge)](#)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/builderslab/Fraud-Detection-System-360663a5d5d1801891a3fc873503cc9b)
 [![Demo](https://img.shields.io/badge/Demo-E74C3C?style=for-the-badge)](#)
-[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BuildersLab/Fraud-Detection-System)
 
 <br clear="left"/>
 
@@ -102,8 +103,9 @@ A machine learning system that identifies fraudulent payment transactions using 
 A predictive scoring system that evaluates the creditworthiness of loan applicants using historical financial data. The model outputs a continuous risk score to help lenders make data-driven decisions - reducing default rates while keeping credit accessible to qualified borrowers.
 
 [![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge)](#)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/builderslab/Credit-Risk-Scoring-System-360663a5d5d180b18f73d93d27db9c42)
 [![Demo](https://img.shields.io/badge/Demo-3498DB?style=for-the-badge)](#)
-[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BuildersLab/Credit-Risk-Default)
 
 <br clear="left"/>
 
@@ -124,8 +126,9 @@ A predictive scoring system that evaluates the creditworthiness of loan applican
 A data-driven forecasting tool that estimates crop yields from environmental and agricultural inputs - including weather patterns, soil composition, and farming practices. Built to help researchers and planners anticipate production outcomes and support more sustainable food systems.
 
 [![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge)](#)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/builderslab/Agricultural-Yield-Predictor-360663a5d5d1807fa314dbfbf1af8646)
 [![Demo](https://img.shields.io/badge/Demo-27AE60?style=for-the-badge)](#)
-[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BuildersLab/Agricultural-Yield-Forecasting)
 
 <br clear="left"/>
 
