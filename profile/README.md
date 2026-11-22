@@ -42,6 +42,21 @@
      ========================================================= -->
 
 <details open>
+<summary><b>🚀 Cohort 1 &nbsp;·&nbsp; 2027</b></summary>
+<br>
+
+| Name | Role | GitHub | Project |
+|------|------|--------|---------|
+| **Nafisat Ibrahim** | ![Program Lead](https://img.shields.io/badge/Program%20Lead-6C63FF?style=flat-square&logoColor=white) | [![GitHub](https://img.shields.io/badge/@Nafisatibrahim-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nafisatibrahim) | ![](https://img.shields.io/badge/TBD-95A5A6?style=flat-square) |
+| **Marienne Dosso** | ![Project Manager](https://img.shields.io/badge/Project%20Manager-1ABC9C?style=flat-square&logoColor=white) | [![GitHub](https://img.shields.io/badge/@marienne56-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/marienne56) | ![](https://img.shields.io/badge/TBD-95A5A6?style=flat-square) |
+| **Laël Keïla Nacro** | ![Program Coordinator](https://img.shields.io/badge/Program%20Coordinator-C2185B?style=flat-square&logoColor=white) | [![GitHub](https://img.shields.io/badge/@LaelKeila-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LaelKeila) | ![](https://img.shields.io/badge/TBD-95A5A6?style=flat-square) |
+| **Hana Berhe** | ![Application Developer](https://img.shields.io/badge/Application%20Developer-8E44AD?style=flat-square&logoColor=white) | [![GitHub](https://img.shields.io/badge/@hana--Berhe-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hana-Berhe) | ![](https://img.shields.io/badge/TBD-95A5A6?style=flat-square) |
+
+</details>
+
+<br>
+
+<details>
 <summary><b>🚀 Cohort 0 &nbsp;·&nbsp; 2026</b></summary>
 <br>
 
