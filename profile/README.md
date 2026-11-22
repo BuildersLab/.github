@@ -116,7 +116,7 @@ A predictive scoring system that evaluates the creditworthiness of loan applican
 
 [![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge)](#)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/builderslab/Credit-Risk-Scoring-System-360663a5d5d180b18f73d93d27db9c42)
-[![Demo](https://img.shields.io/badge/Demo-3498DB?style=for-the-badge)](#)
+[![Demo](https://img.shields.io/badge/Demo-3498DB?style=for-the-badge)](https://portfolio-risk-prediction.streamlit.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BuildersLab/Credit-Risk-Default)
 
 <br clear="left"/>
